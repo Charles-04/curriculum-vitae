@@ -7,7 +7,7 @@
 }
 
 body{
-    background-color: #94D9EA;
+    background-color: #f0f7f8;
 }
 
 .main-content{
@@ -21,11 +21,11 @@ body{
 .left-section{
     grid-column: span 2;
     height: 100%;
-    background-color: #00324A;
+    background-color: #23004a;
 }
 .right-section{
     grid-column: span 5;
-    background-color: #f7f7f7;
+    background-color: #e0d7ff;
     height: 100%;
 }
 
@@ -35,7 +35,7 @@ body{
 }
 .profile{
     width: 100%;
-    border-bottom: 1px solid #002333;
+    border-bottom: 1px solid #003304;
 }
 
 .image{
@@ -45,7 +45,7 @@ body{
 .profile img{
     width: 100%;
     border-radius: 50%;
-    border: 8px solid #002333;
+    border: 8px solid #1869d4;
     
 }
 
@@ -124,7 +124,7 @@ body{
     width: 85%;
 }
 .c-progress{
-    width: 40%;
+    width: 75%;
 }
 .n-progress{
     width: 63%;
