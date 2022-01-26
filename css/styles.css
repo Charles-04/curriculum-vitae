@@ -60,7 +60,7 @@ body{
 
 .career{
     font-size: 1.2rem;
-    color: #94D9EA;
+    color: #2D9CDB;
     text-align: center;
     text-transform: uppercase;
     letter-spacing: 1px;
@@ -274,4 +274,18 @@ body{
     .name{
         font-size: 1.5rem;
     }
+}
+.Hobbies>i{
+    
+    color: #2D9CDB;
+    font-weight: bold;
+    
+}
+.Hobbies{
+    height: 10px;
+    width: 150px;
+    color: #ffff;
+    padding-top: 50px;
+    text-transform: uppercase;
+    padding-left: 0px;
 }
